@@ -1,4 +1,6 @@
 # MechaCar_Statistical_Analysis
+## Project Overview
+In this project we used data gathered and saved in csv files to complete an analysis using Rstudio and R. The Data was focused on MechaCar vs. competetitors. We used differentiating tools and tests to determine and explore what competition and efficiency looked like for MechaCar.
 
 ## Linear Regression to Predict MPG
 ![alt text](https://github.com/allison-chavez/MechaCar_Statistical_Analysis/blob/main/Console%20Images/Linear_Regression.png)
@@ -32,3 +34,4 @@ Yes, for the total because the variance is below 100 for the total summary, ther
 Lot 1 and lot 2 have normal distributions but when you look at lot 3 it is not, the variance exceeds and the pvalue is lower than 0.5. Therefore, lot 3 differs and is not normally distributed.
 
 ## Study Design: MechaCar vs Competition
+In my study design there are numerous determinants that can affect MechaCar vs. competitors. Some of the determinents that are most critical for the interest of a consumer when purchasing is most likely cost, fuel efficiency, maintenance cost. Therefore, cost being the top priority, which flows into being overall efficiency. In order to complete an analysis to see cost efficiency we can complete a t-test. We can have a hypothesis that says they are equivalent MechaCar and competitors and our null would say that they are not similar. The data necessary would be cost of vehicles and also another data source with their maintenance cost.
