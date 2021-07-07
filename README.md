@@ -4,12 +4,15 @@
 ![alt text](https://github.com/allison-chavez/MechaCar_Statistical_Analysis/blob/main/Console%20Images/Linear_Regression.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
 p value and ground clearance
 
 - Is the slope of the linear model considered to be zero? Why or why not?
+
 No, the pvalue.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 This model can predict 71.49% effectively, which is ok but not ideal. There are determinates that can affect the mpg of Mechar Prototypes. 
 
 ## Summary Statistics on Suspension Coils
